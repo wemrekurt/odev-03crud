@@ -19,11 +19,16 @@ Bu ödev kurs boyunca tamamlayacağınız film veritabanı uygulamasının ilk p
 
 ## Başlangıç
 
+**Gerekli Rails versiyonu: 4.2.5.2**
+
 1. Bu repo'yu kendi GitHub hesabınıza forklayın.
 2. Git clone ile projeyi bilgisayarına kopyalayın.
 3. Ödevi tamamladıktan sonra kendi reponuza pushlayın.
 4. Ödevi teslim etmek için bu repoya pull-request gönderin.
 
+
+
 ## Linkler
 
-1.
+1. http://guides.rubyonrails.org/active_record_basics.html
+2. http://guides.rubyonrails.org/active_record_migrations.html
